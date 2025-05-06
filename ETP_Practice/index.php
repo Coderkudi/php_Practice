@@ -15,5 +15,8 @@ $isOnline = true;
 
 echo " Hello {$name}";
 
+echo "The value of 1==4 is: ";
+echo var_dump(1==4);
+
 ?>
 
