@@ -1,5 +1,10 @@
 <?php
     include("database.php");
+
+?>
+
+<?php
+
 echo "Hello, yaar! Welcome to PHP!";
 echo "<br>";
 
